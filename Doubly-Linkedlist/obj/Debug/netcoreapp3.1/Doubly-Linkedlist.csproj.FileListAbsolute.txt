@@ -1,0 +1,14 @@
+E:\Data_Structure\Doubly-LinkedList-Implementation\Doubly-Linkedlist\Doubly-Linkedlist\bin\Debug\netcoreapp3.1\Doubly-Linkedlist.exe
+E:\Data_Structure\Doubly-LinkedList-Implementation\Doubly-Linkedlist\Doubly-Linkedlist\bin\Debug\netcoreapp3.1\Doubly-Linkedlist.deps.json
+E:\Data_Structure\Doubly-LinkedList-Implementation\Doubly-Linkedlist\Doubly-Linkedlist\bin\Debug\netcoreapp3.1\Doubly-Linkedlist.runtimeconfig.json
+E:\Data_Structure\Doubly-LinkedList-Implementation\Doubly-Linkedlist\Doubly-Linkedlist\bin\Debug\netcoreapp3.1\Doubly-Linkedlist.runtimeconfig.dev.json
+E:\Data_Structure\Doubly-LinkedList-Implementation\Doubly-Linkedlist\Doubly-Linkedlist\bin\Debug\netcoreapp3.1\Doubly-Linkedlist.dll
+E:\Data_Structure\Doubly-LinkedList-Implementation\Doubly-Linkedlist\Doubly-Linkedlist\bin\Debug\netcoreapp3.1\Doubly-Linkedlist.pdb
+E:\Data_Structure\Doubly-LinkedList-Implementation\Doubly-Linkedlist\Doubly-Linkedlist\obj\Debug\netcoreapp3.1\Doubly-Linkedlist.csproj.AssemblyReference.cache
+E:\Data_Structure\Doubly-LinkedList-Implementation\Doubly-Linkedlist\Doubly-Linkedlist\obj\Debug\netcoreapp3.1\Doubly-Linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data_Structure\Doubly-LinkedList-Implementation\Doubly-Linkedlist\Doubly-Linkedlist\obj\Debug\netcoreapp3.1\Doubly-Linkedlist.AssemblyInfoInputs.cache
+E:\Data_Structure\Doubly-LinkedList-Implementation\Doubly-Linkedlist\Doubly-Linkedlist\obj\Debug\netcoreapp3.1\Doubly-Linkedlist.AssemblyInfo.cs
+E:\Data_Structure\Doubly-LinkedList-Implementation\Doubly-Linkedlist\Doubly-Linkedlist\obj\Debug\netcoreapp3.1\Doubly-Linkedlist.csproj.CoreCompileInputs.cache
+E:\Data_Structure\Doubly-LinkedList-Implementation\Doubly-Linkedlist\Doubly-Linkedlist\obj\Debug\netcoreapp3.1\Doubly-Linkedlist.dll
+E:\Data_Structure\Doubly-LinkedList-Implementation\Doubly-Linkedlist\Doubly-Linkedlist\obj\Debug\netcoreapp3.1\Doubly-Linkedlist.pdb
+E:\Data_Structure\Doubly-LinkedList-Implementation\Doubly-Linkedlist\Doubly-Linkedlist\obj\Debug\netcoreapp3.1\Doubly-Linkedlist.genruntimeconfig.cache
